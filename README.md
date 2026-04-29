@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Siva
 
-<!--
-**Siva-S4/Siva-S4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student  
+💻 Aspiring Full Stack Developer  
+🚀 Passionate about building interactive web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java | Python | JavaScript  
+
+**Frontend:**  
+HTML | CSS | React.js  
+
+**Tools & Technologies:**  
+Git | GitHub | VS Code  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React.js  
+- Full Stack Development  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn:https://www.linkedin.com/in/siva-s45
+- 📧 Email: sivasankaran1704@gmail.com 
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy photography and playing cricket, which help me stay creative and active.
