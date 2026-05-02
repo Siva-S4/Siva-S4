@@ -19,7 +19,7 @@
 ---
 
 ### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,Eclipse" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 
 ---
 
